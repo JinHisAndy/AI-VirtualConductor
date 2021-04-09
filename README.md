@@ -1,6 +1,6 @@
 # AI-VirtualConductor
 ## Demo result
-see
+see https://www.bilibili.com/video/BV1DB4y1w7a2
 
 ## Requirements
 appdirs==1.4.4\
@@ -47,11 +47,11 @@ tqdm==4.60.0\
 urllib3==1.26.4\
 wincertstore==0.2
 
-####use `pip install -r requirements.txt` to install all of these packages
+#### use `pip install -r requirements.txt` to install all of these packages
 
 ## Testing
 Place your music file(s) in `./test/testset/`, then run `test.py`, the .mp4 results will be saved in `./test/results/`
 
 
-##Refer
+## Refer
 [1] https://github.com/ChenDelong1999/VirtualConductor

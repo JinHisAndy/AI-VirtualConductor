@@ -5,7 +5,7 @@ cffi
 chardet==4.0.0
 cycler==0.10.0
 decorator==4.4.2
-idna==2.10
+idna==3.7
 imageio==2.9.0
 imageio-ffmpeg==0.4.3
 joblib==1.0.1
